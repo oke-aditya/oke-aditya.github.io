@@ -136,18 +136,6 @@ footer:
 
 # Rendering from folders
 defaults:
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"

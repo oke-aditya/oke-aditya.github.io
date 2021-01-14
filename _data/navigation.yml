@@ -1,0 +1,9 @@
+main:
+  - title: "Projects"
+    url: /projects/
+  - title: "Work"
+    url: /work/
+  - title: "Talks"
+    url: /talks/
+  - title: "Blog"
+    url: /blog/

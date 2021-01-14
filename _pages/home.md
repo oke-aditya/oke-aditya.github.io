@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
-title: Hi ! I'm Aditya Oke
+title: Hello I'm Aditya Oke
 
 header:
   overlay_color: "#5e616c"

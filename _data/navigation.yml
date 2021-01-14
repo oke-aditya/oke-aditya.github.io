@@ -5,4 +5,5 @@ main:
     url: /work/
   - title: "Talks"
     url: /talks/
-  
+  - title: "Blog"
+    url: /blog/

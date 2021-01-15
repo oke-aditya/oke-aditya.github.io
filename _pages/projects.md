@@ -21,4 +21,4 @@ I will only list top ones here.
 ## Open Source
 
 I have contributed to many Open Source Libraries.
-Top ones include Torchvision and PyTorch Lightning Bolts.
+Top ones include [Torchvision](https://github.com/pytorch/vision) and [PyTorch Lightning Bolts](https://github.com/PyTorchLightning/pytorch-lightning-bolts).

@@ -1,9 +1,9 @@
 ---
 permalink: /work/
-title: Work
+title: Professional Experience
 lang: en
 toc: true
 toc_sticky: true
 ---
 
-All work goes here
+Currently an undergrad student.

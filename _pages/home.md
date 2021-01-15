@@ -8,7 +8,7 @@ header:
   overlay_color: "#5e616c"
 
 excerpt: >
-  A Student in India
+  A Student Developer.
 
 feature_row:
   - title: "Simple and Precise"

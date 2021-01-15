@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
-title: Hello I'm Aditya Oke
+title: Hello! I'm Aditya Oke
 
 header:
   overlay_color: "#5e616c"
@@ -10,24 +10,53 @@ header:
 excerpt: >
   A Student Developer.
 
+# feature_row:
+#   - title: "An Open Source Evangelist"
+#     excerpt: "I contribute to open source softwares and libraries."
+#     btn_class: "btn--primary"
+#     btn_label: "Open Source"
+
+#   - title: "A Software Developer"
+#     excerpt: "I create high quality, re-usable and tested software"
+
+#   - title: "A Lifelong Student"
+#     excerpt: "I keep learning to be better developer."
+  
 feature_row:
-  - title: "Simple and Precise"
-    excerpt: "Easy to understand, lucid, byte sized posts. No bloated content or complications."
-    url: "/categories/"
-    btn_class: "btn--primary"
-    btn_label: "Read Here"
+  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "An Open Source Evangelist"
+    excerpt: "I contribute to open source softwares and libraries."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "A Software Developer"
+    excerpt: "I create high quality, re-usable and tested software"
+    # url: "#test-link"
+    # btn_label: "Read More"
+    # btn_class: "btn--inverse"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "A Lifelong Student"
+    excerpt: "I keep learning to be better developer."
 
-  - title: "Wide Range of Topics"
-    excerpt: "Covers wide Range of Topics like Software Development, DevOps, Data Science"
-    url: "/tags/"
-    btn_class: "btn--primary"
-    btn_label: "Browse Topics"
+# feature_row:
+#   - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+#     alt: "placeholder image 4"
+#     title: "An Open Source Evangelist"
+#     excerpt: "I contribute to open source softwares and libraries."
+#   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#     alt: "placeholder image 5"
+#     title: "A Software Developer"
+#     excerpt: "I create high quality, re-usable and tested software"
+#     # url: "#test-link"
+#     # btn_label: "Read More"
+#     # btn_class: "btn--inverse"
+#   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+#     alt: "placeholder image 6"
+#     title: "A Lifelong Student"
+#     excerpt: "I keep learning to be better developer."
 
-  - title: "100% free"
-    excerpt: "No Tracking, No Ads, No Monetization or Marketing !!"
-    url: "/about/"
-    btn_class: "btn--primary"
-    btn_label: ""
 ---
 
 {% include feature_row %}
+<!-- {% include feature_row %} -->

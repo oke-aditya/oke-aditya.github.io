@@ -9,3 +9,8 @@ Hello All !
 This is my Personal Webpage.
 
 Visit here to know more about me !
+
+# Credits
+
+The website uses Minimal mistakes [template](https://github.com/mmistakes/mm-github-pages-starter/generate)
+it gives this website a rich look and feel.

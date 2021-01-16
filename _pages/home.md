@@ -25,20 +25,20 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/open.jpg
     alt: "placeholder image 1"
-    title: "An Open Source Evangelist"
+    title: "Open Source Contributor"
     excerpt: "I contribute to open source softwares and libraries."
 
   - image_path: /assets/images/code.jpg
     alt: "placeholder image 2"
-    title: "A Software Developer"
+    title: "Software Engineer"
     excerpt: "I create high quality, re-usable and tested software"
-    # url: "#test-link"
     # btn_label: "Read More"
+    # url: "#test-link"
     # btn_class: "btn--inverse"
 
   - image_path: /assets/images/learn.jpg
     alt: "placeholder image 3"
-    title: "A Lifelong Student"
+    title: "Lifelong Student"
     excerpt: "I keep learning to be better developer."
 
 # feature_row:

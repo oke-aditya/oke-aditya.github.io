@@ -14,3 +14,9 @@ Visit here to know more about me !
 
 The website uses Minimal mistakes [template](https://github.com/mmistakes/mm-github-pages-starter/generate)
 it gives this website a rich look and feel.
+
+# Picture Credits
+
+1. [Code Photo](https://unsplash.com/photos/4hbJ-eymZ1o) by Florian Olivo on Unsplash
+2. [Learn Photo](https://unsplash.com/photos/WE_Kv_ZB1l0) Photo by Tim Mossholder on Unsplash.
+3. [Open](https://unsplash.com/photos/FQgI8AD-BSg) Photo by Finn Hackshaw on Unsplash

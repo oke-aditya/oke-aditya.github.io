@@ -23,18 +23,20 @@ excerpt: >
 #     excerpt: "I keep learning to be better developer."
   
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/images/open.jpg
     alt: "placeholder image 1"
     title: "An Open Source Evangelist"
     excerpt: "I contribute to open source softwares and libraries."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+
+  - image_path: /assets/images/code.jpg
     alt: "placeholder image 2"
     title: "A Software Developer"
     excerpt: "I create high quality, re-usable and tested software"
     # url: "#test-link"
     # btn_label: "Read More"
     # btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+
+  - image_path: /assets/images/learn.jpg
     alt: "placeholder image 3"
     title: "A Lifelong Student"
     excerpt: "I keep learning to be better developer."

@@ -6,5 +6,8 @@ toc: true
 toc_sticky: true
 ---
 
-Currently an undergrad student.
+I am currently an undergrad student.
+
+You can view my CV [here](https://drive.google.com/file/d/1sDZGXgQTIgOFuICvsOy25JzE1_-BC1HI/view?usp=sharing), and my Resume [here](https://drive.google.com/file/d/1nbM9kiVag68hyARzwnGB_9NgwqtgBK4g/view?usp=sharing)
+
 I will update my Professional Experience as I work :smiley:

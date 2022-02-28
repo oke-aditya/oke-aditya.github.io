@@ -140,7 +140,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 4.2.0)
+  jekyll (~> 4.2.1)
   jekyll-avatar
   jekyll-feed
   jekyll-gist
